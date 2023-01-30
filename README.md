@@ -8,7 +8,9 @@ This is the starter code for the Lemonade app project in the [final pathway](htt
 
 
 ## Main Features
-1. Kotlin
+1. Kotlin images, text, classes, objects, and conditionals to create an interactive app for users.
 1. Instrumented tests (Espresso) + unit tests
 1. Single Activity Architecture
-1. 
+
+
+[lemonade.gif.zip](https://github.com/hannahStapleton/Lemonade/files/10536221/lemonade.gif.zip)
