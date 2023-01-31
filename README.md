@@ -12,5 +12,4 @@ This is the starter code for the Lemonade app project in the [final pathway](htt
 1. Instrumented tests (Espresso) + unit tests
 1. Single Activity Architecture
 
-
-[lemonade.gif.zip](https://github.com/hannahStapleton/Lemonade/files/10536221/lemonade.gif.zip)
+![lemonade](https://user-images.githubusercontent.com/114391681/215712718-5cdee7ea-a3e3-4d3c-8cf8-723398daf2a3.gif)
